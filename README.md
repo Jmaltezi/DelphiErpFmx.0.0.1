@@ -1,1 +1,1 @@
-# DELPHI-ERP-FMX
+# Projeto de Sistema ERP ultilizando DELPHI(RAD STUDIO) na tecnologia FMX
