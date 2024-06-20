@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/06/19 22:22:06.229,=C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/06/19 22:22:31.943,C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Projetos\ERP-FMX\erp.view.index.pas=C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/06/19 22:22:31.943,C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Projetos\ERP-FMX\erp.view.index.fmx=C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Unit1.fmx</Transaction>
+    <Transaction>2024/06/19 22:22:49.698,C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Projetos\ERP-FMX\ErpViewIndex.dproj=C:\Users\julia\OneDrive\Documentos\ESTUDOS\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

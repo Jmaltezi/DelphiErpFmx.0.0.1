@@ -1,9 +1,11 @@
 {
-	"name": "boss instal",
-	"description": "SISTEMA ERP USANDO DELPHI COM TECNOLOGIA FMX",
+	"name": "ERP-FMX",
+	"description": "Sistema ERP feito com DELPHI usando FMX",
 	"version": "0.0.1",
-	"homepage": "ERP-FMX",
-	"mainsrc": "\u0016C:\\Users\\julia\\OneDrive\\Documentos\\ESTUDOS\\Delphi\\Projetos\\ERP-FMX",
+	"homepage": "github\\Jmaltezi",
+	"mainsrc": "C:\\Users\\julia\\OneDrive\\Documentos\\ESTUDOS\\Delphi\\Projetos\\ERP-FMX",
 	"projects": [],
-	"dependencies": {}
+	"dependencies": {
+		"https://github.com/bittencourtthulio/router4delphi": "^1.0.9"
+	}
 }
