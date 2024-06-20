@@ -1,0 +1,11 @@
+{
+	"name": "boss install",
+	"description": "Sistema EPR com DELPHI usando FMX",
+	"version": "0.0.1",
+	"homepage": "erp-fmx",
+	"mainsrc": "C:\\Users\\julia\\OneDrive\\Documentos\\ESTUDOS\\Delphi\\Projetos\\ERP-FMX",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/bittencourtthulio/router4delphi": "^1.0.9"
+	}
+}
